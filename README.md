@@ -11,7 +11,7 @@ Este es un proyecto de To-do List que permite agregar, completar y eliminar tare
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-repositorio
+   cd todo-list-react
    ```
 
 3. Instala las dependencias del proyecto:
