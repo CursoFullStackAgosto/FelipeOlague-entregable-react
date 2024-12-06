@@ -6,7 +6,7 @@ Este es un proyecto de To-do List que permite agregar, completar y eliminar tare
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-organizacion/nombre-repositorio.git
+   git clone git@github.com:CursoFullStackAgosto/FelipeOlague-entregable-react.git
    ```
 
 2. Navega al directorio del proyecto:
